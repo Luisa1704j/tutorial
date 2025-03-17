@@ -28,15 +28,15 @@ Dentro de este esqueleto encontramos etiquetas estructurales que le dan forma al
 
 6.	Hay que tener en cuenta que existen diferentes tipos de elementos de maketacion, como: (Imagen5)
 ### Etiquetas estructurales:
-Como <header>, <footer>, <section>, <article>, <nav>, <main>, etc., para estructurar la página de manera semántica. (Imagen6)
+Como header, footer, section, article, nav, main, etc., para estructurar la página de manera semántica. (Imagen6)
 ### Contenedores: 
-Elementos como <div> y <span> que ayudan a agrupar y organizar contenido, especialmente cuando se combinan con CSS para darle estilo. (Imagen7)
+Elementos como div y span que ayudan a agrupar y organizar contenido, especialmente cuando se combinan con CSS para darle estilo. (Imagen7)
 ### Tablas y listas: 
-Si es necesario, se utilizan etiquetas como <table>, <ul>, <ol>, <li> para organizar la información de forma estructurada.(Imagen8)
+Si es necesario, se utilizan etiquetas como table, ul, ol, li para organizar la información de forma estructurada.(Imagen8)
 ### Enlaces y botones: 
-Los elementos <a> (para enlaces) y <button> se usan para crear interactividad en la página.
+Los elementos a (para enlaces) y button se usan para crear interactividad en la página.
 ### Imágenes y medios: 
-Con la etiqueta <img>, puedes incluir imágenes, mientras que etiquetas como <video> o <audio> permiten incluir contenido multimedia.(Imagen9)
+Con la etiqueta img, puedes incluir imágenes, mientras que etiquetas como video o audio permiten incluir contenido multimedia.(Imagen9)
  
 
 
