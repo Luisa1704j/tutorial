@@ -12,19 +12,19 @@ Luego debemos seguir los siguientes pasos:
 4.	Visual nos genera esta primera estructura, así: (Imagen4)
 Dentro de este esqueleto encontramos etiquetas estructurales que le dan forma al mismo y sentido a nuestro trabajo, tales como son:
 
-•  <!DOCTYPE html>: Define que el documento está usando HTML5. Esto le indica al navegador que interprete el código como una página HTML moderna.
+•  !DOCTYPE html: Define que el documento está usando HTML5. Esto le indica al navegador que interprete el código como una página HTML moderna.
 
-•  <html lang="en">: La etiqueta <html> es la raíz del documento HTML. El atributo lang="en" especifica el idioma de la página, en este caso, inglés. Este atributo es útil para la accesibilidad y el SEO.
+•  html lang="en": La etiqueta <html> es la raíz del documento HTML. El atributo lang="en" especifica el idioma de la página, en este caso, inglés. Este atributo es útil para la accesibilidad y el SEO.
 
-•  <head>: El contenedor para metadatos sobre el documento, como el juego de caracteres (<meta charset="UTF-8">), la configuración de la visualización en dispositivos móviles (<meta name="viewport">), y el título de la página (<title>).
+•  head: El contenedor para metadatos sobre el documento, como el juego de caracteres (<meta charset="UTF-8">), la configuración de la visualización en dispositivos móviles (<meta name="viewport">), y el título de la página (<title>).
 
-•  <meta charset="UTF-8">: Establece el juego de caracteres para el documento, que en este caso es UTF-8, lo que asegura que se puedan usar caracteres especiales correctamente.
+•  meta charset="UTF-8": Establece el juego de caracteres para el documento, que en este caso es UTF-8, lo que asegura que se puedan usar caracteres especiales correctamente.
 
-•  <meta name="viewport" content="width=device-width, initial-scale=1.0">: Configura la página para ser receptiva (responsive), asegurándose de que se ajuste correctamente en dispositivos móviles.
+•  meta name="viewport" content="width=device-width, initial-scale=1.0": Configura la página para ser receptiva (responsive), asegurándose de que se ajuste correctamente en dispositivos móviles.
 
-•  <title></title>: El título de la página, que aparece en la pestaña del navegador. Este título debe describir de manera breve el contenido de la página.
+•  title></title: El título de la página, que aparece en la pestaña del navegador. Este título debe describir de manera breve el contenido de la página.
 
-•  <body>: Esta etiqueta contiene todo el contenido visible de la página web, como texto, imágenes, enlaces, y otros elementos interactivos.
+•  body: Esta etiqueta contiene todo el contenido visible de la página web, como texto, imágenes, enlaces, y otros elementos interactivos.
 
 6.	Hay que tener en cuenta que existen diferentes tipos de elementos de maketacion, como: (Imagen5)
 ### Etiquetas estructurales:
